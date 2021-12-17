@@ -1,0 +1,14 @@
+body{
+  text-align: center;
+    background-color: #F4A42F;
+}
+img { border-radius:90%; }
+p{ font-size:18px; color:#800000; }
+a{
+    color:darkorange;
+    
+}
+.menu{
+    background:purple;
+    width:100%
+}
